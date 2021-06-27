@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428080972452",
+    "project_id": "flutterfinalexam",
+    "storage_bucket": "flutterfinalexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428080972452:android:cfcd954c87fe664a225c31",
+        "android_client_info": {
+          "package_name": "com.last.lastexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428080972452-31givnhco18vrqgudpfq0erqp7khrv3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASMnaIxK4CjK6Dwqy4PJTZyunj8B4CuEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428080972452-31givnhco18vrqgudpfq0erqp7khrv3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
